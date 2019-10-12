@@ -10,6 +10,6 @@ DOMAIN-SUFFIX,oculus.com,PROXY
 DOMAIN-SUFFIX,oculuscdn.com,PROXY
 DOMAIN-KEYWORD,facebook,PROXY
 
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,linkedin.com,PROXY
+DOMAIN-SUFFIX,licdn.com,PROXY
+DOMAIN-SUFFIX,amazon.com,PROXY
