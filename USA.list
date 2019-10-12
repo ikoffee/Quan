@@ -1,3 +1,4 @@
+# > FaceBook,Whatsapp,linkedIn
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
 DOMAIN-SUFFIX,fb.me,PROXY
 DOMAIN-SUFFIX,fbcdn.net,PROXY
@@ -8,3 +9,7 @@ DOMAIN-SUFFIX,whatsapp.net,PROXY
 DOMAIN-SUFFIX,oculus.com,PROXY
 DOMAIN-SUFFIX,oculuscdn.com,PROXY
 DOMAIN-KEYWORD,facebook,PROXY
+
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,amazon.com
