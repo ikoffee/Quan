@@ -1,14 +1,14 @@
 # > FaceBook Whatsapp linkedIn
-DOMAIN-SUFFIX,cdninstagram.com,PROXY
-DOMAIN-SUFFIX,fb.me,PROXY
-DOMAIN-SUFFIX,fbcdn.net,PROXY
-DOMAIN-SUFFIX,instagram.com,PROXY
-DOMAIN-SUFFIX,messenger.com,PROXY
-DOMAIN-SUFFIX,whatsapp.com,PROXY
-DOMAIN-SUFFIX,whatsapp.net,PROXY
-DOMAIN-SUFFIX,oculus.com,PROXY
-DOMAIN-SUFFIX,oculuscdn.com,PROXY
-DOMAIN-KEYWORD,facebook,PROXY
-DOMAIN-SUFFIX,linkedin.com,PROXY
-DOMAIN-SUFFIX,licdn.com,PROXY
-DOMAIN-SUFFIX,amazon.com,PROXY
+DOMAIN-SUFFIX,cdninstagram.com,USA
+DOMAIN-SUFFIX,fb.me,USA
+DOMAIN-SUFFIX,fbcdn.net,USA
+DOMAIN-SUFFIX,instagram.com,USA
+DOMAIN-SUFFIX,messenger.com,USA
+DOMAIN-SUFFIX,whatsapp.com,USA
+DOMAIN-SUFFIX,whatsapp.net,USA
+DOMAIN-SUFFIX,oculus.com,USA
+DOMAIN-SUFFIX,oculuscdn.com,USA
+DOMAIN-KEYWORD,facebook,USA
+DOMAIN-SUFFIX,linkedin.com,USA
+DOMAIN-SUFFIX,licdn.com,USA
+DOMAIN-SUFFIX,amazon.com,USA
