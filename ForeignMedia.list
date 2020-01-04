@@ -188,9 +188,3 @@ DOMAIN,api.viu.now.com,ForeignMedia
 DOMAIN,d1k2us671qcoau.cloudfront.net,ForeignMedia
 DOMAIN,d2anahhhmp1ffz.cloudfront.net,ForeignMedia
 DOMAIN,dfp6rglgjqszk.cloudfront.net,ForeignMedia
-# > YouTube
-USER-AGENT,com.google.ios.youtube*,ForeignMedia
-USER-AGENT,YouTube*,ForeignMedia
-DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
-DOMAIN-SUFFIX,youtube.com,ForeignMedia
-DOMAIN,youtubei.googleapis.com,ForeignMedia
