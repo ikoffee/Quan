@@ -12,3 +12,9 @@ DOMAIN-KEYWORD,facebook,USA
 DOMAIN-SUFFIX,linkedin.com,USA
 DOMAIN-SUFFIX,licdn.com,USA
 DOMAIN-SUFFIX,amazon.com,USA
+
+# > PayPal
+USER-AGENT,PayPal*,USA
+DOMAIN-KEYWORD,paypal,USA
+DOMAIN-SUFFIX,paypal.com,USA
+DOMAIN-SUFFIX,paypalobjects.com,USA
