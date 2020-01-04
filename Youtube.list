@@ -4,3 +4,7 @@ USER-AGENT,YouTube*,ForeignMedia
 DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
 DOMAIN-SUFFIX,youtube.com,ForeignMedia
 DOMAIN,youtubei.googleapis.com,ForeignMedia
+
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,ForeignMedia
+USER-AGENT,YouTubeMusic*,ForeignMedia
