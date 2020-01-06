@@ -1,5 +1,7 @@
 # > Google
-DOMAIN-SUFFIX,ampproject.org,PROXY
+DOMAIN-SUFFIX,google-analytics.com,Google
+DOMAIN-SUFFIX,analyticsreporting.googleapis.com,Google
+DOMAIN-SUFFIX,ampproject.org,Google
 DOMAIN-SUFFIX,abc.xyz,Google
 DOMAIN-SUFFIX,android.com,Google
 DOMAIN-SUFFIX,androidify.com,Google
